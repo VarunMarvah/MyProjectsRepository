@@ -1,0 +1,9 @@
+High level business logic ( Create calculated fields if columns are not available)
+
+Budget = Gross/Profitable Ratio
+
+Net Income = Gross Income - Budget 
+
+
+
+Missing budget - google for movies budget online to fill missing values if required
